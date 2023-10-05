@@ -1,2 +1,3 @@
 boss,swang2272,Wang,Siyan
 employee,clin395,Lin,Chuyi
+boss,xli2484,Li,Xinyao  git add names.txt

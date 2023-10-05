@@ -1,3 +1,3 @@
 boss,swang2272,Wang,Siyan
 employee,clin395,Lin,Chuyi
-employee，xli2484，Li，Xinyao
+employee,xli2484,Li,Xinyao
